@@ -1,3 +1,5 @@
 <?php
 
-echo "to jest pierwsza wersja strony"
+echo 'to jest pierwsza wersja strony';
+
+?>
